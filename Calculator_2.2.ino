@@ -1,5 +1,5 @@
-// ___________________________Calculator on Arduino with LCD Touchscreen display HX8352A 400x240______________________________________//
-// First working version 2.2
+// ___________________________Calculator - Arduino with LCD Touchscreen display HX8352A 400x240______________________________________//
+// vers 2.2
 // Nurnberg 3.02.19
 
 
